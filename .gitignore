@@ -1,0 +1,12 @@
+# Visual Studio related directories
+.vs/
+bin/
+obj/
+packages/
+
+# Visual Studio related extentions
+*.csproj.user
+
+# Developer specific GameStartup projects
+GameStartup1/
+GameStartup2/

@@ -1,0 +1,9 @@
+<NetworkConfig>
+	<Enabled>true</Enabled>
+	<Server>false</Server>
+	<IpAddress>127.0.0.1</IpAddress>
+	<Port>6656</Port>
+	<Nickname>sajmonks</Nickname>
+	<SessionPassword>123</SessionPassword>
+	<MaxPlayers>16</MaxPlayers>
+</NetworkConfig>
